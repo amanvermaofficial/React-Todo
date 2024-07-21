@@ -1,8 +1,9 @@
-# React + Vite
+# Project Overview 🚀
+This project demonstrates the use of Local Storage and a strong implementation of React's Context API. By leveraging these tools, the application efficiently manages state and persists data across sessions, ensuring a seamless user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Key Features ✨
+Local Storage Integration: Persistent data storage across browser sessions.
+Context API: Efficient state management and prop drilling solution.
+Modern React Practices: Built with functional components and hooks.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the project [here](https://todoxyz.netlify.app/) and let us know your thoughts! 💻✨
